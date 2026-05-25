@@ -135,15 +135,3 @@ streamlit run workflow_dashboard.py
 
 ---
 
-## ⭐ Why This Project Matters
-
-This project demonstrates the ability to:
-
-* Work with real-world system data
-* Build machine learning models
-* Deliver insights through interactive dashboards
-* Design AI-powered analytics tools
-
----
-
-👉 This is not just a dashboard — it's a **workflow intelligence system**.
